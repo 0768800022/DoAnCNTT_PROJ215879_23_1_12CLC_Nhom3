@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/DATA/ProjectFinal1/src/java/project/controller/CheckoutServlet.java</file>
+            <file>file:/D:/DATA/ProjectFinal1/src/java/project/business/LineItem.java</file>
+            <file>file:/D:/DATA/ProjectFinal1/web/ManagerAccount.jsp</file>
+            <file>file:/D:/DATA/ProjectFinal1/src/java/project/controller/InvoiceDetailServlet.java</file>
+            <file>file:/D:/DATA/ProjectFinal1/src/java/project/controller/PaginationUserServlet.java</file>
+            <file>file:/D:/DATA/ProjectFinal1/src/java/project/controller/EmailCheckOut.java</file>
+            <file>file:/D:/DATA/ProjectFinal1/src/java/project/business/Cart.java</file>
+            <file>file:/D:/DATA/ProjectFinal1/src/java/project/business/Account.java</file>
+            <file>file:/D:/DATA/ProjectFinal1/src/java/project/controller/AddToCartServlet.java</file>
+            <file>file:/D:/DATA/ProjectFinal1/web/page-single.jsp</file>
+            <file>file:/D:/DATA/ProjectFinal1/src/java/project/business/Invoice.java</file>
+            <file>file:/D:/DATA/ProjectFinal1/web/home.jsp</file>
+            <file>file:/D:/DATA/ProjectFinal1/src/java/project/controller/ManagerAccountServlet.java</file>
+            <file>file:/D:/DATA/ProjectFinal1/src/java/project/business/Invoice_detail.java</file>
+            <file>file:/D:/DATA/ProjectFinal1/web/checkout.jsp</file>
+            <file>file:/D:/DATA/ProjectFinal1/web/WEB-INF/web.xml</file>
+            <file>file:/D:/DATA/ProjectFinal1/src/java/project/business/Product.java</file>
+            <file>file:/D:/DATA/ProjectFinal1/web/header.jsp</file>
+            <file>file:/D:/DATA/ProjectFinal1/web/InvoiceDetail.jsp</file>
+            <file>file:/D:/DATA/ProjectFinal1/src/java/project/controller/ForgotPassword.java</file>
+            <file>file:/D:/DATA/ProjectFinal1/src/java/project/business/Admin.java</file>
+            <file>file:/D:/DATA/ProjectFinal1/src/java/project/controller/LogoutServlet.java</file>
+            <file>file:/D:/DATA/ProjectFinal1/web/footer.jsp</file>
+            <file>file:/D:/DATA/ProjectFinal1/src/java/project/data/UserDB.java</file>
+        </group>
+    </open-files>
+</project-private>

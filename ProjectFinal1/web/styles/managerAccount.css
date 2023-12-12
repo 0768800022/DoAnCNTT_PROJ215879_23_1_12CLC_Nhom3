@@ -1,0 +1,133 @@
+/* The styles for the elements */
+body { 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 85%;
+    margin-left: 2em;
+    margin-right: 2em;
+    width: 400px;
+}
+h1 {     
+    font-size: 140%;
+    color: var(--while-color);
+    margin-bottom: .5em;    
+}
+h2 {     
+    font-size: 120%;
+    color: teal;
+    margin-bottom: .5em;    
+}
+label {
+    float: left;
+    width: 7em;
+    margin-bottom: 0.5em;
+    font-weight: bold;
+}
+input[type="text"], input[type="email"] {  /* An attribute selector */
+    width: 15em;
+    margin-left: 0.5em;    
+    margin-bottom: 0.5em;
+}
+span {
+    margin-left: 0.5em;    
+    margin-bottom: 0.5em;    
+}
+br {
+    clear: both;
+}
+
+/* The styles for the classes */
+.pad_top {
+    padding-top: 0.25em;
+}
+.margin_left {
+    margin-left: 0.5em;
+}
+
+/* The styles for the tables */
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 50em;
+}
+th, td {
+    border: 1px solid black;
+    text-align: left;
+    padding: .5em;
+}
+.right {
+    text-align: right;
+}
+/*a {
+    text-decoration: none;
+    color: teal;
+    padding: 5px 5px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+a:hover {
+    background-color: yellow;
+    opacity: 0.5;
+}*/
+
+
+.add a{
+    text-decoration: none;
+    padding: 5px 5px;
+    right: 0;
+    border: 0;
+    outline: 0;
+    font-size: 0.875em;
+    font-weight: var(--fw6);
+    background-color: var(--primary-color);
+    color: var(--white-color);
+    border-radius: 7px;
+    cursor: pointer;
+    transition: var(--trans-background);
+}
+
+a{
+    text-decoration: none;
+    padding: 5px 5px;
+    right: 0;
+    border: 0;
+    outline: 0;
+    font-size: 0.875em;
+    font-weight: var(--fw6);
+    background-color: green;
+    color: var(--white-color);
+    border-radius: 7px;
+    cursor: pointer;
+    transition: var(--trans-background);
+}
+
+a:hover {
+    background-color: var(--dark-color);
+}
+
+:root {
+    --primary-color: #ff6b6b;
+    --secondary-color: #794afa;
+    --secondary-dark-color: #453c5c;
+
+    --white-color: #fff;
+    --light-bg-color: #f2f3f5;
+    --light-text-color: darkgrey;
+    --border-color: #e5e8ec;
+    --dark-color: #0a021c;
+
+    --font-small: 13px;
+    --font-smaller: 11px;
+
+    --percent100: 100%;
+    --percent50: 50%;
+
+    --fw3 : 300;
+    --fw5 : 500;
+    --fw6 : 600;
+    --fw8 : 800;
+    --fw7 : 700;
+
+    --trans-background-color: background-color .3s color .3s;
+    --trans-background: background-color .3s;
+    --trans-color: color .3s;
+}
